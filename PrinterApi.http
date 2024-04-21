@@ -1,0 +1,6 @@
+@PrinterApi_HostAddress = http://localhost:5251
+
+GET {{PrinterApi_HostAddress}}/printerapi/
+Accept: application/json
+
+###
